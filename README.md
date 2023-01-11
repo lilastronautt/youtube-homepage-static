@@ -1,6 +1,6 @@
 Created Using pure CSS
 
-Netlify link - https://63beaed05b5f8c2bd75e18c5--strong-kelpie-ddbf74.netlify.app/ 
+Netlify link - https://strong-kelpie-ddbf74.netlify.app/ 
 
 
 ![Screenshot (59)](https://user-images.githubusercontent.com/78983125/211809351-402d2bbd-cf10-43a4-9b87-34e968bf8dd6.png)
