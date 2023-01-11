@@ -43,6 +43,7 @@ body {
 .den-med:hover {
   background: rgba(0, 0, 0, 0.1);
   border-radius: 50%;
+  cursor: pointer;
 }
 
 img {
@@ -97,6 +98,7 @@ img {
 .mics:hover {
   background: rgba(0, 0, 0, 0.1);
   border-radius: 50%;
+  cursor: pointer;
 }
 
 .helper div {
@@ -109,6 +111,7 @@ img {
 .helper div:hover {
   background-color: rgba(0, 0, 0, 0.1);
   border-radius: 50%;
+  cursor: pointer;
 }
 
 .helper span {
